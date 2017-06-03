@@ -1,6 +1,6 @@
 # Sharing is Caring Summative
 
-##Wireframes
+## Wireframes
 
 ![16507378_10211809033442479_1157647284_n](https://cloud.githubusercontent.com/assets/22593770/26753914/9894eb66-4868-11e7-9411-889b643336b5.jpg)
 ![16507501_10211809034122496_1685533861_n](https://cloud.githubusercontent.com/assets/22593770/26753915/989536ca-4868-11e7-84a4-aa7dc4249960.jpg)
