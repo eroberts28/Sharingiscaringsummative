@@ -136,3 +136,7 @@ The above layout is visually appealing, attractive. The content is nothing relat
 <img width="1440" alt="section" src="https://cloud.githubusercontent.com/assets/22593770/26780279/e514e4cc-49e0-11e7-8530-e943c7ce82ea.png">
 
 The designer has thought of how he can place a mass amount of text without it looking boring. He has clrealy thought how to place a title so it is still legible however not dominating other content. This could be something I can try in the Our Space project.
+
+## Presentation
+
+[Formative](https://drive.google.com/open?id=0B2VBmeX3V4a4c0pDMHhZOTdPZk0)
