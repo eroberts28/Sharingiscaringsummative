@@ -147,7 +147,7 @@ The designer has thought of how he can place a mass amount of text without it lo
 * [Ideas for Sharing is caring](http://fourthfloor.raveweb.net/eroberts/2017/02/28/sharing-is-caring/)
 * [JavaScript for cats](http://fourthfloor.raveweb.net/eroberts/2017/02/28/javascript-for-cats/)
 * [Make a drawing to illustrate how the Web works](http://fourthfloor.raveweb.net/eroberts/2017/05/29/how-the-web-works/)
-* [Get the Idea: capturing attention]
+* [Get the Idea: capturing attention](http://fourthfloor.raveweb.net/eroberts/2017/06/05/visualising-information-for-advocacy/)
 * [Infographic stories]
 * [Copywriting is Interface Design](http://fourthfloor.raveweb.net/eroberts/2017/06/04/copywriting-is-interface-design/)
 * [Infographics, good and bad](http://fourthfloor.raveweb.net/eroberts/2017/06/04/infographics/)
