@@ -140,4 +140,5 @@ The designer has thought of how he can place a mass amount of text without it lo
 ## Presentation
 
 [Formative](https://drive.google.com/open?id=0B2VBmeX3V4a4c0pDMHhZOTdPZk0)
-[Summative] (https://drive.google.com/file/d/0B4tsIdp7PwXNQm95aEEwc2NZMEE/view)
+
+[Summative](https://drive.google.com/file/d/0B4tsIdp7PwXNQm95aEEwc2NZMEE/view)
