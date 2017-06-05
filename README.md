@@ -63,6 +63,10 @@ We have to make a website to promote our course, which is BA (Hons) Web Media Pr
 
 https://docs.google.com/a/students.rave.ac.uk/document/d/18O6twns5X1ivxG7M3U_jnGWR7bJHmujGTlpqg6-T-jI/edit?usp=sharing
 
+## Interviews
+
+https://docs.google.com/document/d/1BnoJ8v_MsSk9YBR3tG87vrmV8Y8hihgD5fd7xGdeQkY/edit
+
 ## Personas
 
 <img width="598" alt="2017-06-05_10-32-26" src="https://cloud.githubusercontent.com/assets/22593770/26778795/ac8fb6e6-49da-11e7-8d9a-04977a0cfeac.png">
@@ -82,6 +86,8 @@ https://docs.google.com/a/students.rave.ac.uk/document/d/1TfkkKfUNSyliLGzGpxYQAH
 
 ![untitled-3](https://cloud.githubusercontent.com/assets/22593770/26779997/983003d6-49df-11e7-89c6-3c85e551af7e.jpg)
 ![untitled-2](https://cloud.githubusercontent.com/assets/22593770/26779996/982c9246-49df-11e7-8e18-05515033766b.jpg)
+<img width="743" alt="screen shot 2017-06-05 at 11 13 44 1" src="https://cloud.githubusercontent.com/assets/22593770/26786284/ff53b936-49fd-11e7-9569-b4a18ebbb8cc.png">
+<img width="753" alt="screen shot 2017-06-05 at 11 13 19" src="https://cloud.githubusercontent.com/assets/22593770/26786285/ff6a4520-49fd-11e7-922b-3d2289348a6c.png">
 
 ## Wireframes
 
