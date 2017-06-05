@@ -149,7 +149,7 @@ The designer has thought of how he can place a mass amount of text without it lo
 * [Make a drawing to illustrate how the Web works](http://fourthfloor.raveweb.net/eroberts/2017/05/29/how-the-web-works/)
 * [Get the Idea: capturing attention]
 * [Infographic stories]
-* [Copywriting is Interface Design]
+* [Copywriting is Interface Design](http://fourthfloor.raveweb.net/eroberts/2017/06/04/copywriting-is-interface-design/)
 * [Infographics, good and bad](http://fourthfloor.raveweb.net/eroberts/2017/06/04/infographics/)
 * [Interviewing humans](http://fourthfloor.raveweb.net/eroberts/2017/05/30/interviewing-humans/)
 * [Our space interviews](http://fourthfloor.raveweb.net/eroberts/2017/05/29/interviews/)
