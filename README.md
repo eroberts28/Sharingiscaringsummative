@@ -53,7 +53,11 @@ https://github.com/eroberts28/Animalwelfaresummative
 
 https://eroberts28.github.io/Animalwelfaresummative/
 
-#Our Space
+# Our Space
+
+#Brief
+
+We have to make a website to promote our course, which is BA (Hons) Web Media Production for the next year students. We need to do a variety of research methods in order to make this a success. In this document you will find out what we have done, and the steps we have taken to make the final outcome.
 
 ## Competitor analysis
 
@@ -65,3 +69,60 @@ https://docs.google.com/a/students.rave.ac.uk/document/d/18O6twns5X1ivxG7M3U_jnG
 <img width="598" alt="2017-06-05_10-33-25" src="https://cloud.githubusercontent.com/assets/22593770/26778797/ac9272dc-49da-11e7-9feb-e37ffe3e856f.png">
 <img width="598" alt="2017-06-05_10-34-12" src="https://cloud.githubusercontent.com/assets/22593770/26778796/ac91735a-49da-11e7-9ec7-7226a73bb8e2.png">
 <img width="598" alt="2017-06-05_10-34-48" src="https://cloud.githubusercontent.com/assets/22593770/26778798/ac93009e-49da-11e7-827e-40ff50e90407.png">
+
+## Content map
+
+![content map](https://cloud.githubusercontent.com/assets/22593770/26053540/2f8b05c6-3961-11e7-8055-45872bb2c2ad.jpg)
+
+## Content Strategy
+
+https://docs.google.com/a/students.rave.ac.uk/document/d/1TfkkKfUNSyliLGzGpxYQAHJcol4eRon2CZwTB6TBuzg/edit?usp=sharing
+
+## Typesetting experiments
+
+![untitled-3](https://cloud.githubusercontent.com/assets/22593770/26779997/983003d6-49df-11e7-89c6-3c85e551af7e.jpg)
+![untitled-2](https://cloud.githubusercontent.com/assets/22593770/26779996/982c9246-49df-11e7-8e18-05515033766b.jpg)
+
+## Wireframes
+
+### First design idea
+
+![4](https://cloud.githubusercontent.com/assets/22593770/26780130/2627197c-49e0-11e7-8353-5aab6e52fe73.png)
+
+### Final design idea
+
+#### Home / Introduction
+
+The main concept is to have the menu bar fixed on the left. Keeping it simple, minimal and clean is what I was going for. The blue was used to ensure trust with Ravensbourne. My main importance was the 'Book a lecture' section as that will allow the user to get onboard with 100% enthusiasm and know what to expect. The design also has information like the Unistats which some people found frustrating to have. There is also media at the bottom which will show videos and images.
+
+![5](https://cloud.githubusercontent.com/assets/22593770/26780132/262d10f2-49e0-11e7-8447-a43a8d0094cb.png)
+
+#### Course Details
+
+I ensured only relevant information will be on this page. It will give you the UCAS codes, entry requirements as well as the fees. Users can choose what type of student they are and then the fee will generate.
+
+![6](https://cloud.githubusercontent.com/assets/22593770/26780129/2626a820-49e0-11e7-8156-ea39d276ec7e.png)
+
+#### Apply
+
+I used the gamification approach in this, users would have to select where they are located, if they press home and EU, they will be redirected to UCAS. The blue BG is the hover state. The admission's email is there as well as the contact form which people can get in touch.
+
+![7](https://cloud.githubusercontent.com/assets/22593770/26780133/26359d08-49e0-11e7-80bc-5997a099d258.png)
+
+#### Outline
+
+We thought of different ways to show the structure of the content and we ended up with the one you can see on the screen. Just a simple and nice rectangle that highlights the area selected with the same tone of blue that we've used on the left side of the website. We chose it to be blue because we wanted to gave it a friendly and creative style so the person that is reading it feels comfortable with it. In the right side there will be portofolios from actual students from year 1 to 3 so the reader can appreciate the progress eventually.
+
+![8](https://cloud.githubusercontent.com/assets/22593770/26780135/263e3fee-49e0-11e7-99d1-e1266f762a1c.png)
+
+#### Book a taster
+
+This is a really important section of the website because it gives the opportunity to the reader to book a taster so they can get the real feeling of how the lecturers will be. The design we made in this page was quite simple as we wanted to make sure that who ever is reading this knows exactly what's going on. We kept the main information on the right side and on the left you can book a taster immediately.
+
+![9](https://cloud.githubusercontent.com/assets/22593770/26780136/26408fba-49e0-11e7-8123-8d5b4584a29a.png)
+
+#### Lecturers
+
+This is when the audience can get to know the lecturers better. We provided images and a good biography telling who the lecturers are and what experience they've got. Again we followed the same style as the one "What your course will look like". We did so because we believe that when you're reading about who is going to be teaching the course, you want to have a friendly and quite atmosphere. We tried to represent that by having the colour blue as the colour background for the text and having the colour font white so it doesn't like too formal and the reader can feel more relax reading it.
+
+![10](https://cloud.githubusercontent.com/assets/22593770/26780134/263af456-49e0-11e7-8a80-354b218d76a9.png)
