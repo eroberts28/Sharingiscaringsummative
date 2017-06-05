@@ -37,14 +37,18 @@ Visualising - transformation of animals through ones that are helped and ones th
 
 https://docs.google.com/document/d/13GaNzbEocwjCmzLI1YSOki5YCHcQWO34Rs-afqjc3uw/edit?usp=sharing
 
-##Formative video presentation
+## Formative video presentation
+
 https://vimeo.com/208052333
 
-##Summative video presentation
+## Summative video presentation
+
 https://vimeo.com/220280586
 
-#Sharing is Caring code
+# Sharing is Caring code
+
 https://github.com/eroberts28/Animalwelfaresummative
 
-##Sharing is Caring site
+## Sharing is Caring site
+
 https://eroberts28.github.io/Animalwelfaresummative/
