@@ -157,4 +157,4 @@ The designer has thought of how he can place a mass amount of text without it lo
 * [10 common typography mistakes](http://fourthfloor.raveweb.net/eroberts/2017/06/04/typography-mistakes/)
 * [Web design myths](http://fourthfloor.raveweb.net/eroberts/2017/05/29/web-design-myths/)
 * [Destroy the Web](http://fourthfloor.raveweb.net/eroberts/2017/05/29/how-to-destroy-the-web/)
-* [What did I learn?]
+* [What did I learn?](http://fourthfloor.raveweb.net/eroberts/2017/06/05/reflection-post/)
