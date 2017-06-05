@@ -52,3 +52,16 @@ https://github.com/eroberts28/Animalwelfaresummative
 ## Sharing is Caring site
 
 https://eroberts28.github.io/Animalwelfaresummative/
+
+#Our Space
+
+## Competitor analysis
+
+https://docs.google.com/a/students.rave.ac.uk/document/d/18O6twns5X1ivxG7M3U_jnGWR7bJHmujGTlpqg6-T-jI/edit?usp=sharing
+
+## Personas
+
+<img width="598" alt="2017-06-05_10-32-26" src="https://cloud.githubusercontent.com/assets/22593770/26778795/ac8fb6e6-49da-11e7-8d9a-04977a0cfeac.png">
+<img width="598" alt="2017-06-05_10-33-25" src="https://cloud.githubusercontent.com/assets/22593770/26778797/ac9272dc-49da-11e7-9feb-e37ffe3e856f.png">
+<img width="598" alt="2017-06-05_10-34-12" src="https://cloud.githubusercontent.com/assets/22593770/26778796/ac91735a-49da-11e7-9ec7-7226a73bb8e2.png">
+<img width="598" alt="2017-06-05_10-34-48" src="https://cloud.githubusercontent.com/assets/22593770/26778798/ac93009e-49da-11e7-827e-40ff50e90407.png">
