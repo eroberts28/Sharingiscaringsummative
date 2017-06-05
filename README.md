@@ -126,3 +126,13 @@ This is a really important section of the website because it gives the opportuni
 This is when the audience can get to know the lecturers better. We provided images and a good biography telling who the lecturers are and what experience they've got. Again we followed the same style as the one "What your course will look like". We did so because we believe that when you're reading about who is going to be teaching the course, you want to have a friendly and quite atmosphere. We tried to represent that by having the colour blue as the colour background for the text and having the colour font white so it doesn't like too formal and the reader can feel more relax reading it.
 
 ![10](https://cloud.githubusercontent.com/assets/22593770/26780134/263af456-49e0-11e7-8a80-354b218d76a9.png)
+
+## Moodboard
+
+![square](https://cloud.githubusercontent.com/assets/22593770/26780267/d876bca4-49e0-11e7-9461-04450b829b1f.png)
+
+The above layout is visually appealing, attractive. The content is nothing related to what we have for Our Space. I can still take inspiration from the colour theory, typography and overall shaping used within the layout. I know it is a sans-serif font, with experience I know that sans-serif is a friendly and modern font. They have also used The use of blue is repeated, I assume that it is to enforce trust. The designer has managed to combine the page together by placing shadows underneath the phone, and having a big blue box which is used between two elements.
+
+<img width="1440" alt="section" src="https://cloud.githubusercontent.com/assets/22593770/26780279/e514e4cc-49e0-11e7-8530-e943c7ce82ea.png">
+
+The designer has thought of how he can place a mass amount of text without it looking boring. He has clrealy thought how to place a title so it is still legible however not dominating other content. This could be something I can try in the Our Space project.
