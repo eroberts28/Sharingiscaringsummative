@@ -141,3 +141,20 @@ The designer has thought of how he can place a mass amount of text without it lo
 
 * [Formative](https://drive.google.com/open?id=0B2VBmeX3V4a4c0pDMHhZOTdPZk0)
 * [Summative](https://drive.google.com/file/d/0B4tsIdp7PwXNQm95aEEwc2NZMEE/view)
+
+# Blog posts
+ 
+* [Ideas for Sharing is caring] (http://fourthfloor.raveweb.net/eroberts/2017/02/28/sharing-is-caring/)
+* [JavaScript for cats] (http://fourthfloor.raveweb.net/eroberts/2017/02/28/javascript-for-cats/)
+* [Make a drawing to illustrate how the Web works] (http://fourthfloor.raveweb.net/eroberts/2017/05/29/how-the-web-works/)
+* [Get the Idea: capturing attention]
+* [Infographic stories]
+* [Copywriting is Interface Design]
+* [Infographics, good and bad] (http://fourthfloor.raveweb.net/eroberts/2017/06/04/infographics/)
+* [Interviewing humans] (http://fourthfloor.raveweb.net/eroberts/2017/05/30/interviewing-humans/)
+* [Our space interviews] (http://fourthfloor.raveweb.net/eroberts/2017/05/29/interviews/)
+* [Our space personas] (http://fourthfloor.raveweb.net/eroberts/2017/05/29/personas/)
+* [10 common typography mistakes] (http://fourthfloor.raveweb.net/eroberts/2017/06/04/typography-mistakes/)
+* [Web design myths] (http://fourthfloor.raveweb.net/eroberts/2017/05/29/web-design-myths/)
+* [Destroy the Web] (http://fourthfloor.raveweb.net/eroberts/2017/05/29/how-to-destroy-the-web/)
+* [What did I learn?]
